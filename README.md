@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24343578.svg)](https://doi.org/10.5281/zenodo.24343578) 
 # Comparative Genomic, Structural, and Phylogenetic Analysis of Bacterial ACC Deaminase (*acdS*) Across Contrasting Ecological Niches
 
 **Author:** Anyela Paola Silvestre Romero (Universidad Antonio Nariño - UAN, Bogotá, Colombia)
