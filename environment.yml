@@ -1,0 +1,12 @@
+name: acds-comparative-genomics
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - biopython=1.83
+  - pandas=2.2
+  - openpyxl=3.1
+  - mafft=7.525
+  - iqtree=3.1.3
